@@ -18,13 +18,31 @@ Using Python/Matplotlib, students learn to:
 - NumPy
 - Linux command-line tools
 
-All figures are created with a focus on clarity, precision, and scientific accuracy—appropriate for research publication standards.
+---
 
-## 🧪 Example Topics Covered
-- Genomic feature visualization
-- Swarm plots and boxplots
-- Multipanel layout design
-- Data transformation and statistical overlays
+## 📂 Assignments
+
+| Assignment | Description | Preview |
+|------------|-------------|---------|
+| [Week 1](Assignment_Week1/) | Basic scatter plots and axis formatting | <img src="Assignment_Week1/Week1_output.png" width="200"/> |
+| [Week 2](Assignment_Week2/) | Plotting genomic features with gene tracks | <img src="Assignment_Week2/Week2_output.png" width="200"/> |
+| [Week 3](Assignment_Week3/) | tSNE plot of immune cell clusters and density-based heatmap using custom colormaps | <img src="Assignment_Week3/Wang_Karen_BME163_Assignment_Week3.png" width="200"/> |
+| [Week 4](Assignment_Week4/) | Swarm plots using identity and coverage data | <img src="Assignment_Week4/Wang_Karen_BME163_Assignment_Week4.png" width="200"/> |
+| [Week X](Assignment_WeekX/) | *Customize this for your next task* | *[image]* |
+
+> ✨ *Each figure is designed for clarity, reproducibility, and publication quality.*
 
 ---
 
+## 🧪 Topics Covered
+- Genomic data parsing and visualization
+- Swarm plots, boxplots, and statistical overlays
+- Custom figure layout and styling using `.mplstyle`
+- Multi-panel composition and formatting
+
+---
+
+## 🧵 How to Reproduce
+To run a specific assignment:
+```bash
+python3 Wang_Karen_BME163_Assignment_Week4.py -i input_data.ident -c input_data.cov -o output_figure.png
