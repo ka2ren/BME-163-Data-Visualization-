@@ -27,7 +27,7 @@ Using Python/Matplotlib, students learn to:
 | [Week 1](Assignment_Week1/) | Basic scatter plots and axis formatting | <img src="Assignment_Week1/Week1_output.png" width="200"/> |
 | [Week 2](Assignment_Week2/) | Plotting genomic features with gene tracks | <img src="Assignment_Week2/Week2_output.png" width="200"/> |
 | [Week 3](Assignment_Week3/) | tSNE plot of immune cell clusters and density-based heatmap using custom colormaps | <img src="Assignment_Week3/Wang_Karen_BME163_Assignment_Week3.png" width="200"/> |
-| [Week 4](Assignment_Week4/) | Swarm plots using identity and coverage data | <img src="Assignment_Week4/Wang_Karen_BME163_Assignment_Week4.png" width="200"/> |
+| [Week 4](Assignment_Week4/) | Swarm plot of read identity (%) binned by subread coverage using customized jittering and color coding | <img src="Assignment_Week4/Wang_Karen_BME163_Assignment_Week4.png" width="200"/> |
 | [Week X](Assignment_WeekX/) | *Customize this for your next task* | *[image]* |
 
 > ✨ *Each figure is designed for clarity, reproducibility, and publication quality.*
